@@ -3,10 +3,9 @@
  *Date: 2018-07-21
  *Author: Dennis Bunne
  *
- *Exercise 2.8 from the swedish book "C från början"
+ *Exercise 2.9 from the swedish book "C från början"
  *
- *This program calculates the price excluding VAT 
- *and the sum of VAT.
+ *
  */
 #include <stdio.h>
 
