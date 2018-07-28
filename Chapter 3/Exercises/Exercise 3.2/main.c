@@ -10,7 +10,7 @@
 #include <stdio.h>
 
 int main(){
-	int priceYear, priceTicket, times, sum;	
+	int priceYear, priceTicket, times;	
 
 	printf("Enter price for season ticket: ");
 	scanf("%d",&priceYear);
