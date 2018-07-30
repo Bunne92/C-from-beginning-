@@ -11,7 +11,7 @@
 
 int main(){
 	int startYear = 2015, enteredYear, citizens = 26000, newBorn, pastAway;
-	
+
 	printf("Enter year: ");
 	scanf("%d", &enteredYear);
 
@@ -21,6 +21,6 @@ int main(){
 		citizens += newBorn + 300 - pastAway - 325;
 		startYear++;
 	}
-	printf("Citizens in the city year %d are %d.", enteredYear, citizens);	
+	printf("The inhabitants of the city this year %d are %d.", enteredYear, citizens);	
 	return 0;
 }
