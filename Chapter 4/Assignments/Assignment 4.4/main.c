@@ -3,7 +3,7 @@
  *Date: 2018-07-30
  *Author: Dennis Bunne
  *
- *Assignment 4.3 from the swedish book "C från början"
+ *Assignment 4.4 from the swedish book "C från början"
  *
  *
  */
