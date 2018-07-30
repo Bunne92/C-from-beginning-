@@ -10,17 +10,17 @@
 #include <stdio.h>
 
 int main(){
-	int startYear = 2015, enteredYear, citizens = 26000, newBorn, pastAway;
+	int startYear = 2015, enteredYear, inhabitants = 26000, newBorn, pastAway;
 
 	printf("Enter year: ");
 	scanf("%d", &enteredYear);
 
 	while(startYear <= enteredYear){
-		newBorn = citizens * 0.07;
-		pastAway = citizens * 0.06;
-		citizens += newBorn + 300 - pastAway - 325;
+		newBorn = inhabitants * 0.07;
+		pastAway = inhabitants * 0.06;
+		inhabitants += newBorn + 300 - pastAway - 325;
 		startYear++;
 	}
-	printf("The inhabitants of the city year %d are %d.", enteredYear, citizens);	
+	printf("The inhabitants of the city year %d are %d.", enteredYear, inhabitants);	
 	return 0;
 }
