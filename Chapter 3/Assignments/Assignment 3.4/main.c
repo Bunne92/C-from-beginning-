@@ -1,9 +1,9 @@
 /*
  *File: main.c
- *Date: 2018-07-29
+ *Date: 2018-07-30
  *Author: Dennis Bunne
  *
- *Assignment 3.3 from the swedish book "C från början"
+ *Assignment 3.4 from the swedish book "C från början"
  *
  *
  */
