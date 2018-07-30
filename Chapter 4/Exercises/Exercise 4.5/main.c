@@ -3,7 +3,7 @@
  *Date: 2018-07-30
  *Author: Dennis Bunne
  *
- *Exercise 4.4 from the swedish book "C från början"
+ *Exercise 4.5 from the swedish book "C från början"
  *
  *
  */
